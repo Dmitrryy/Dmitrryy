@@ -1,6 +1,8 @@
 
 # Hello there! I'm Dmitry :wave:
 
+Learn about me [here(CV)](https://github.com/Dmitrryy/Dmitrryy/blob/master/Dmitry_Drozdov_CV.pdf).
+
 # :chart_with_upwards_trend: GitHub stats:
 
 <br>
